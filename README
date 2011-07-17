@@ -1,0 +1,3 @@
+This will take 57600 baud GPS data in the UART serial port from Gary Flispart's GPS Simulator at 1hz, and repeat it out about 10 times each second, using NewSoftSerial pin 7 at 57600 baud.
+
+- Dan Bowen 20110717 
